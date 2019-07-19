@@ -1,0 +1,7 @@
+{
+    "name": "Getting Started with Chrome Extensions Example",
+    "version": "1.0",
+    "description": "Build a Chrome Extension",
+    "manifest_version": 2
+}
+
