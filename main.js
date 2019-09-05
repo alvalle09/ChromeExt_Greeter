@@ -12,6 +12,8 @@ document.getElementById("settings-button").addEventListener('click', openSetting
 
 function openSettings() {
     document.getElementById("settings").classList.toggle("settings-open");
+    document.getElementById('name-input').focus();
+
 }
 
 function saveName() {

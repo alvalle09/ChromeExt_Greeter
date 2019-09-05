@@ -4,7 +4,7 @@
     flex-direction: row;
     align-content: center;
     transform: translateX(-100%);
-    transition: transform 0.75s;
+    transition: transform 0.65s;
 }
 
 .settings-open.settings {
